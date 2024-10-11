@@ -6,7 +6,7 @@ from datetime import datetime
 import json
 
 
-api_key = 'CG-gWPcsjYFbM5Hy2f8ePLQkGEc'
+api_key = 'CG-QaXFmHaFHT7gA7iaAvivbV4t'
 
 # Function to fetch data from the API
 def fetch_data(coin_id, vs_currency, numdays):
